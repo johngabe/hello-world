@@ -1,12 +1,3 @@
 # hello-world
-Gabe
-really
-is
-a
-cool
-guy
-sometimes
-but
-not
-always
+This is the development branch of our project
 
